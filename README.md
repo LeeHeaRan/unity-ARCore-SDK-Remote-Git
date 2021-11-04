@@ -12,7 +12,7 @@ TargetArchitectures의 ARM64체크.
 2. Package Manager의 왼쪽 상단 + 클릭. Add Packge From Git URL... 클릭.   
 3. com.unity.multiplayer-hlapi와 com.unity.xr.leagcyinputhelpers를 install.   
 4. 이미지   
-최종적으로 들어가야할 객체들.   
+최종적으로 들어가야할 오브젝트들.   
 ![01](https://user-images.githubusercontent.com/48555909/129133195-fd95abd1-e3e6-49d6-8563-c79363554941.png)   
 필요한 것들을 넣어 준다.   
 ![02](https://user-images.githubusercontent.com/48555909/129133230-e4408f8c-a23b-4482-9ff7-5c79e5680e62.png)   
