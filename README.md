@@ -28,3 +28,4 @@ TargetArchitectures의 ARM64체크.
 5. InstantPreview.apk 폰에 설치하기.   
 6. USB 연결해서 빌드 확인.   
  
+*주의: Unity에서는 더 이상 ar sdk를 제공하지 않는다. ARCore와 ARFoundation은 SDK와 함께 사용할 수없다.
