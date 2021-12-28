@@ -1,4 +1,4 @@
-# unity-ARFoundation-Remote-Git   
+# unity-AR SDK-Remote-Git   
 ### AR 개발 환경 설정.   
 1. android switch platform   
 2. player settings에서 player에서 GraphicsAPIs의 Vulkan제거. Minimum API Level을 android 7.0 'Nougat'로 변경. Configuration에서 Scriping Vackend를 IL2CPP로 변경.   
